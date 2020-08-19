@@ -1,0 +1,8 @@
+{
+  "title": "Spring Bean Scope is not defined",
+  "type": "BUG",
+  "status": "ready",
+  "tags": [
+    "spring"],
+  "defaultSeverity": "Blocker"
+}
